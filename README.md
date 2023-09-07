@@ -8,31 +8,26 @@ Welcome to the Oasis Infobyte (OIBSIP) repository! This repository contains seve
 
 ### 1. Iris Flower Classification
 
-#### Directory: [iris-flower-classification](/iris-flower-classification)
 #### Description:
 This project focuses on classifying Iris flowers into different species using machine learning techniques. It serves as a classic example of multiclass classification.
 
 ### 2. Unemployment Analysis
 
-#### Directory: [unemployment-analysis](/unemployment-analysis)
 #### Description:
 Our Unemployment Analysis project aims to analyze unemployment data and identify trends, patterns, and potential factors contributing to unemployment rates. The insights generated can be valuable for policymakers and researchers.
 
 ### 3. Email Spam Detection
 
-#### Directory: [email-spam-detection](/email-spam-detection)
 #### Description:
 Email Spam Detection is crucial for maintaining a clean and secure inbox. This project leverages machine learning algorithms to classify emails as spam or non-spam, ensuring a more efficient and organized email experience.
 
 ### 4. Car Price Prediction
 
-#### Directory: [car-price-prediction](/car-price-prediction)
 #### Description:
 Car Price Prediction is designed to help users estimate the price of a used car based on various features and market trends. This project can be beneficial for both buyers and sellers in the automotive market.
 
 ### 5. Sales Prediction
 
-#### Directory: [sales-prediction](/sales-prediction)
 #### Description:
 Sales Prediction is a vital aspect of business planning. This project utilizes historical sales data and machine learning models to forecast future sales, enabling better inventory management and strategic decision-making.
 
